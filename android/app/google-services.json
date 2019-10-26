@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "851533991800",
+    "firebase_url": "https://overbid-63701.firebaseio.com",
+    "project_id": "overbid-63701",
+    "storage_bucket": "overbid-63701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851533991800:android:cbc7dc7f8c8a2e29a4c28d",
+        "android_client_info": {
+          "package_name": "com.mosaza.overbid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851533991800-v7jjqfduicdn1b236rhibosvl4gsc5k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mosaza.overbid_app",
+            "certificate_hash": "4f037f40f7311cfb0f32b344b0c4df1638d1022c"
+          }
+        },
+        {
+          "client_id": "851533991800-f7foagjrtmmvt53sdkk649s7c1bi6slj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclh8QLg8CHiE8S-WS5DP505gd5duccFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851533991800-f7foagjrtmmvt53sdkk649s7c1bi6slj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851533991800-ra56o9hs5hbs7dsg56a01fq4svd4mld4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mosaza.overbidApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851533991800:android:a899f400b649cd21a4c28d",
+        "android_client_info": {
+          "package_name": "com.mosazad.overbid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851533991800-i817qi7suln1o8hm3e06oq0s6426bttb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mosazad.overbid_app",
+            "certificate_hash": "4f037f40f7311cfb0f32b344b0c4df1638d1022c"
+          }
+        },
+        {
+          "client_id": "851533991800-f7foagjrtmmvt53sdkk649s7c1bi6slj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclh8QLg8CHiE8S-WS5DP505gd5duccFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851533991800-f7foagjrtmmvt53sdkk649s7c1bi6slj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851533991800-ra56o9hs5hbs7dsg56a01fq4svd4mld4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mosaza.overbidApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

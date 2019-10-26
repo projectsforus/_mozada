@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>851533991800-mm5e1k2r66cg06fu0o1o90ffe94rp4ls.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.851533991800-mm5e1k2r66cg06fu0o1o90ffe94rp4ls</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>851533991800-i817qi7suln1o8hm3e06oq0s6426bttb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXrjdv_0rMFeYzy7DqLQqTn63-zC8P7Hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851533991800</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mosazad.overbidApp</string>
+	<key>PROJECT_ID</key>
+	<string>overbid-63701</string>
+	<key>STORAGE_BUCKET</key>
+	<string>overbid-63701.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851533991800:ios:916de7594f72e783a4c28d</string>
+	<key>DATABASE_URL</key>
+	<string>https://overbid-63701.firebaseio.com</string>
+</dict>
+</plist>
